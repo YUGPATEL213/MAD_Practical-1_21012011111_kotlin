@@ -1,4 +1,4 @@
- fun main(){
+fun main(){
     println("hello world")
 
 
@@ -20,7 +20,7 @@
     var f:Char='a'
     println("$f: Character variable")
 
-    var l:Long=21012011111
+    var l:Long=111213141516
     println("$l: long value")
 
     var s:Short=43

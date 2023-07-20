@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4813c722-9e85-4887-b65c-606b31f67c78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practical-1.3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Practical-1.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Practical-1.1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SnKUv2Nqh110y0oNT00tq1kkVH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -109,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689778426930</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Practical-1">
+      <option name="closed" value="true" />
+      <created>1689867050514</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689867050514</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

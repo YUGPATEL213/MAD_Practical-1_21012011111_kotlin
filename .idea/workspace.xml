@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4813c722-9e85-4887-b65c-606b31f67c78" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Practical-1.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Practical-1.1.kt" afterDir="false" />
-    </list>
+    <list default="true" id="4813c722-9e85-4887-b65c-606b31f67c78" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,13 +117,22 @@
       <option name="project" value="LOCAL" />
       <updated>1689867050514</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Practical-1.1.kt">
+      <option name="closed" value="true" />
+      <created>1689867235549</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689867235549</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practical-1.1" />
     <MESSAGE value="Practical-1.2" />
     <MESSAGE value="Practical-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practical-1" />
+    <MESSAGE value="Practical-1.1.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practical-1.1.kt" />
   </component>
 </project>
